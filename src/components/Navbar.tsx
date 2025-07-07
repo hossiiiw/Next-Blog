@@ -12,8 +12,8 @@ function Navbar() {
       link: "/blogs",
     },
     {
-      title: "article",
-      link: "/addarticle",
+      title: "Form",
+      link: "/addForm",
     },
   ];
 
