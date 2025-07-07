@@ -1,6 +1,7 @@
 import { IBlogs } from "@/app/blogs/page";
 import Link from "next/link";
 import React from "react";
+import Delete from "./Delete";
 
 function Articale({ id, title, content }: IBlogs) {
   return (
@@ -16,6 +17,8 @@ function Articale({ id, title, content }: IBlogs) {
         >
           Read...
         </Link>
+
+        <Delete id={id}/>
       </div>
     </div>
   );

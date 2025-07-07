@@ -1,24 +1,3 @@
 {
-  "articlas": [
-    {
-      "id": "1",
-      "title": "1",
-      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima autemat labore? Optio, voluptatem autem. Magni perspiciatis illum officianecessitatibus repellendus atque cumque non illo est? Similique, quas?Dolores, a."
-    },
-    {
-      "id": "2",
-      "title": "2",
-      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima autemat labore? Optio, voluptatem autem. Magni perspiciatis illum officianecessitatibus repellendus atque cumque non illo est? Similique, quas?Dolores, a."
-    },
-    {
-      "id": "3",
-      "title": "3",
-      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima autemat labore? Optio, voluptatem autem. Magni perspiciatis illum officianecessitatibus repellendus atque cumque non illo est? Similique, quas?Dolores, a."
-    },
-    {
-      "id": "0.1688675999522048",
-      "title": "test",
-      "content": "test"
-    }
-  ]
+  "articlas": []
 }
